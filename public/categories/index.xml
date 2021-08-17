@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on VenSam Trading</title>
-    <link>http://vensam.com/categories/</link>
+    <link>https://hopeful-hoover-2fa178.netlify.app/categories/</link>
     <description>Recent content in Categories on VenSam Trading</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://vensam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hopeful-hoover-2fa178.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

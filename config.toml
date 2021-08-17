@@ -1,4 +1,4 @@
-baseurl = "http://vensam.com/"
+baseurl = "https://hopeful-hoover-2fa178.netlify.app"
 title = "VenSam Trading"
 theme = "creative-portfolio"
 languageCode = "en-us"
