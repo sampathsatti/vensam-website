@@ -1,5 +1,5 @@
-baseurl = "https://hopeful-hoover-2fa178.netlify.app"
-title = "VenSam Trading"
+baseurl = "https://vensam.com"
+title = "Sampath Ceramics"
 theme = "creative-portfolio"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Sampath Satti Portfolio"
+  description = "Sampath Ceramics"
   copyright = "&copy;2021 Sampath Satti"
   sidebarAbout = [
-    "Hardware Engineering and Product Lead based in Vancouver"
+    "Ceramicist and Engineer based in Vancouver"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -54,5 +54,4 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  email         = "email@example.com"
-  linkedin      = "full profile url in linkedin"
+  email         = "sampathsatti@gmail.com"
