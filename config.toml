@@ -1,5 +1,5 @@
-baseurl = "https://sampathceramics.vensam.com"
-title = "Sampath Ceramics"
+baseurl = "https://vennelamedapati.vensam.com"
+title = "Vennela Medapati"
 theme = "creative-portfolio"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Sampath Ceramics"
+  description = "Vennela Medapati Portfolio"
   copyright = "&copy;2021 Sampath Satti"
   sidebarAbout = [
-    "Ceramicist and Engineer based in Vancouver"
+    "Graphic Designer and Brand Consultant from Vancouver BC"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "sampathsatti@gmail.com"
+  email = "vennelasmedapati@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
