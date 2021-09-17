@@ -4,3 +4,6 @@
 
 `hugo server -D`
 
+## What the various branches do
+
+subdomains
