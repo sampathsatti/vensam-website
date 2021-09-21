@@ -1,109 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VenSam Trading</title>
-    <link>https://hopeful-hoover-2fa178.netlify.app/</link>
-    <description>Recent content on VenSam Trading</description>
+    <title>Sampath Ceramics</title>
+    <link>https://sampathceramics.vensam.com/</link>
+    <description>Recent content on Sampath Ceramics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://hopeful-hoover-2fa178.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://sampathceramics.vensam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Name of the work 2</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 3</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work3/</link>
+      <title>Cups</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>https://sampathceramics.vensam.com/portfolio/work3/</guid>
+      <description>&lt;p&gt;Cups thrown off the hump&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item without image</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <title>Classical Bowls</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>https://sampathceramics.vensam.com/portfolio/work2/</guid>
+      <description>&lt;p&gt;I am strongly motivated and animated by the desire to throw the largest possible bowls off the hump.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 5</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 6</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 7</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 8</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>https://hopeful-hoover-2fa178.netlify.app/portfolio/work1/</link>
+      <title>Bowls with unglazed exteriors</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://hopeful-hoover-2fa178.netlify.app/portfolio/work1/</guid>
-      <description>&lt;p&gt;Hi Bubs has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <guid>https://sampathceramics.vensam.com/portfolio/work1/</guid>
+      <description>&lt;p&gt;Highlighting the raw sensation of unglazed exterior clay, contrasting with the glazed interior&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chattered, Tall-Lipped plates with unglazed exterior</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://sampathceramics.vensam.com/portfolio/work4/</guid>
+      <description>&lt;p&gt;I made these style of plates specifically to eat rice with sambar, a tangy south indian vegetable stew. I find that it has the best qualities of both bowls and plates. This plate is also chattered on the external, unglazed surface.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chattered exterior on plate</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://sampathceramics.vensam.com/portfolio/work5/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vase</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://sampathceramics.vensam.com/portfolio/work6/</guid>
+      <description>&lt;p&gt;Smooth Flowing curves in a vase.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vase</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://sampathceramics.vensam.com/portfolio/work8/</guid>
+      <description>&lt;p&gt;I love wildflower arrangements in my vases.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vase</title>
+      <link>https://sampathceramics.vensam.com/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://sampathceramics.vensam.com/portfolio/work7/</guid>
+      <description>&lt;p&gt;Glaze interplay.&lt;/p&gt;</description>
     </item>
     
   </channel>
